@@ -1,0 +1,62 @@
+{
+    "Aries": {
+        "personality": "Bold, energetic, initiator, competitive. Natural-born leaders who thrive on challenges and are always ready to take charge.",
+        "strengths": "Leadership, courage, action-oriented, optimism, determination, confidence.",
+        "challenges": "Impatient, impulsive, short-tempered, can be overly aggressive."
+    },
+    "Taurus": {
+        "personality": "Reliable, grounded, loyal, beauty-loving. Values stability and comfort, with a deep appreciation for the finer things in life.",
+        "strengths": "Patience, practicality, determination, dependability, strong willpower.",
+        "challenges": "Stubbornness, resistance to change, possessiveness, materialistic tendencies."
+    },
+    "Gemini": {
+        "personality": "Curious, expressive, adaptable, witty. Quick-thinking communicators who love learning and social interaction.",
+        "strengths": "Communication, creativity, social intelligence, versatility, intellectual agility.",
+        "challenges": "Inconsistency, restlessness, superficiality, indecisiveness."
+    },
+    "Cancer": {
+        "personality": "Nurturing, intuitive, protective, emotional. Deeply connected to home and family with strong empathic abilities.",
+        "strengths": "Empathy, loyalty, intuition, emotional depth, caregiving nature.",
+        "challenges": "Moodiness, over-sensitivity, clinginess, tendency to hold grudges."
+    },
+    "Leo": {
+        "personality": "Confident, dramatic, generous, warm-hearted. Natural performers who radiate charisma and love being in the spotlight.",
+        "strengths": "Creativity, leadership, generosity, self-confidence, enthusiasm.",
+        "challenges": "Arrogance, stubbornness, need for constant admiration, domineering nature."
+    },
+    "Virgo": {
+        "personality": "Analytical, detail-oriented, practical, helpful. Perfectionists who strive for order and efficiency in all areas of life.",
+        "strengths": "Attention to detail, reliability, analytical thinking, modesty, diligence.",
+        "challenges": "Over-critical, perfectionism, excessive worry, difficulty relaxing."
+    },
+    "Libra": {
+        "personality": "Diplomatic, fair-minded, charming, harmonious. Natural peacemakers who value balance, beauty, and partnership.",
+        "strengths": "Diplomacy, grace, fairness, social skills, aesthetic sense.",
+        "challenges": "Indecisiveness, people-pleasing, avoidance of confrontation, superficiality."
+    },
+    "Scorpio": {
+        "personality": "Intense, passionate, resourceful, mysterious. Deeply emotional individuals with powerful intuition and determination.",
+        "strengths": "Determination, bravery, loyalty, resourcefulness, strategic thinking.",
+        "challenges": "Jealousy, secrecy, possessiveness, tendency toward manipulation."
+    },
+    "Sagittarius": {
+        "personality": "Adventurous, optimistic, freedom-loving, philosophical. Seekers of truth and knowledge who love exploration and travel.",
+        "strengths": "Generosity, idealism, great sense of humor, open-mindedness, honesty.",
+        "challenges": "Impatience, tactlessness, over-promising, restlessness, commitment issues."
+    },
+    "Capricorn": {
+        "personality": "Disciplined, ambitious, responsible, patient. Goal-oriented achievers who value tradition and long-term planning.",
+        "strengths": "Responsibility, discipline, self-control, good management skills, persistence.",
+        "challenges": "Pessimism, rigidity, workaholic tendencies, emotional detachment."
+    },
+    "Aquarius": {
+        "personality": "Innovative, humanitarian, independent, intellectual. Visionary thinkers who value freedom and progressive ideas.",
+        "strengths": "Originality, independence, humanitarian spirit, intellectual depth, inventiveness.",
+        "challenges": "Emotional detachment, stubbornness, unpredictability, aloofness."
+    },
+    "Pisces": {
+        "personality": "Compassionate, artistic, intuitive, dreamy. Deeply spiritual souls with a rich inner world and boundless imagination.",
+        "strengths": "Compassion, artistic talent, intuition, gentleness, wisdom, empathy.",
+        "challenges": "Escapism, over-sensitivity, indecisiveness, tendency toward self-pity."
+    }
+}

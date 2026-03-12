@@ -1,0 +1,65 @@
+{
+    "Sun": {
+        "description": "Represents identity, ego, self-expression and vitality.",
+        "nature": "benefic",
+        "influence": "Core sense of self and life purpose. Strong Sun placement brings confidence, leadership, and recognition.",
+        "challenges": "Ego conflicts, arrogance, burnout from overexertion.",
+        "opportunities": "Self-discovery, career advancement, creative expression."
+    },
+    "Moon": {
+        "description": "Represents emotions, inner world, intuition and nurturing energy.",
+        "nature": "benefic",
+        "influence": "Governs emotional responses, subconscious mind, and maternal instincts. Affects mood and mental well-being.",
+        "challenges": "Emotional instability, mood swings, overthinking.",
+        "opportunities": "Emotional healing, deeper intuition, stronger family bonds."
+    },
+    "Mars": {
+        "description": "Represents ambition, drive, assertiveness and conflict.",
+        "nature": "malefic",
+        "influence": "Fuels energy, courage, and physical vitality. Drives competitiveness and determination.",
+        "challenges": "Aggression, impulsiveness, conflicts, accidents.",
+        "opportunities": "Physical strength, courage to take bold actions, competitive success."
+    },
+    "Venus": {
+        "description": "Represents love, harmony, relationships and art.",
+        "nature": "benefic",
+        "influence": "Governs romantic relationships, beauty, luxury, and artistic expression.",
+        "challenges": "Overindulgence, vanity, superficial relationships.",
+        "opportunities": "Romantic fulfillment, artistic success, financial prosperity."
+    },
+    "Mercury": {
+        "description": "Represents communication, logic, travel and intelligence.",
+        "nature": "neutral",
+        "influence": "Rules intellect, speech, analytical ability, and short-distance travel. Affects learning and commerce.",
+        "challenges": "Miscommunication, nervousness, overthinking, deception.",
+        "opportunities": "Intellectual growth, successful negotiations, writing and speaking skills."
+    },
+    "Jupiter": {
+        "description": "Represents wisdom, growth, fortune and knowledge.",
+        "nature": "benefic",
+        "influence": "The great benefic — brings expansion, abundance, spiritual wisdom, and higher learning.",
+        "challenges": "Overconfidence, excess, blind optimism, laziness.",
+        "opportunities": "Wealth, spiritual growth, educational success, long-distance travel."
+    },
+    "Saturn": {
+        "description": "Represents discipline, responsibility, boundaries and lessons.",
+        "nature": "malefic",
+        "influence": "The great teacher — enforces karma, discipline, and long-term rewards through hard work and perseverance.",
+        "challenges": "Delays, restrictions, loneliness, harsh life lessons.",
+        "opportunities": "Mastery through patience, career stability, lasting achievements."
+    },
+    "Rahu": {
+        "description": "Represents obsession, illusion, unconventional paths and worldly desires.",
+        "nature": "malefic",
+        "influence": "Shadow planet that amplifies desires, creates obsession, and pushes toward unconventional success.",
+        "challenges": "Confusion, addiction, deception, sudden upheavals.",
+        "opportunities": "Innovation, breaking barriers, foreign connections, technology."
+    },
+    "Ketu": {
+        "description": "Represents detachment, spirituality, past karma and liberation.",
+        "nature": "malefic",
+        "influence": "Shadow planet that drives spiritual evolution, past-life karma resolution, and detachment from material world.",
+        "challenges": "Isolation, lack of direction, emotional numbness.",
+        "opportunities": "Spiritual enlightenment, mystical experiences, deep wisdom."
+    }
+}

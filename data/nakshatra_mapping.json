@@ -1,0 +1,191 @@
+{
+    "Ashwini": {
+        "description": "Fast-moving, healing, beginnings.",
+        "ruling_planet": "Ketu",
+        "zodiac_sign": "Aries",
+        "deity": "Ashwini Kumaras",
+        "qualities": "Speed, vitality, healing power, pioneering spirit."
+    },
+    "Bharani": {
+        "description": "Strong willpower, transformation.",
+        "ruling_planet": "Venus",
+        "zodiac_sign": "Aries",
+        "deity": "Yama",
+        "qualities": "Endurance, creative force, discipline, rebirth."
+    },
+    "Krittika": {
+        "description": "Fiery energy, truth-seeker, protector.",
+        "ruling_planet": "Sun",
+        "zodiac_sign": "Aries / Taurus",
+        "deity": "Agni",
+        "qualities": "Purification, courage, sharp intellect, determination."
+    },
+    "Rohini": {
+        "description": "Fertile, creative, beauty-loving.",
+        "ruling_planet": "Moon",
+        "zodiac_sign": "Taurus",
+        "deity": "Brahma",
+        "qualities": "Growth, charm, material abundance, artistic talent."
+    },
+    "Mrigashira": {
+        "description": "Searching, curious, gentle.",
+        "ruling_planet": "Mars",
+        "zodiac_sign": "Taurus / Gemini",
+        "deity": "Soma",
+        "qualities": "Quest for knowledge, sensitivity, adaptability."
+    },
+    "Ardra": {
+        "description": "Stormy, transformative, intellectual.",
+        "ruling_planet": "Rahu",
+        "zodiac_sign": "Gemini",
+        "deity": "Rudra",
+        "qualities": "Destruction for renewal, sharp mind, emotional depth."
+    },
+    "Punarvasu": {
+        "description": "Renewal, return to goodness, optimistic.",
+        "ruling_planet": "Jupiter",
+        "zodiac_sign": "Gemini / Cancer",
+        "deity": "Aditi",
+        "qualities": "Restoration, wisdom, generosity, spiritual rebirth."
+    },
+    "Pushya": {
+        "description": "Nourishing, protective, auspicious.",
+        "ruling_planet": "Saturn",
+        "zodiac_sign": "Cancer",
+        "deity": "Brihaspati",
+        "qualities": "Nurturing, selflessness, spiritual growth, prosperity."
+    },
+    "Ashlesha": {
+        "description": "Mystical, intense, serpentine energy.",
+        "ruling_planet": "Mercury",
+        "zodiac_sign": "Cancer",
+        "deity": "Nagas",
+        "qualities": "Hypnotic charm, deep perception, kundalini energy."
+    },
+    "Magha": {
+        "description": "Royal, ancestral, authoritative.",
+        "ruling_planet": "Ketu",
+        "zodiac_sign": "Leo",
+        "deity": "Pitris",
+        "qualities": "Heritage, leadership, power, spiritual duty."
+    },
+    "Purva Phalguni": {
+        "description": "Joyful, creative, pleasure-seeking.",
+        "ruling_planet": "Venus",
+        "zodiac_sign": "Leo",
+        "deity": "Bhaga",
+        "qualities": "Enjoyment, romance, artistic expression, relaxation."
+    },
+    "Uttara Phalguni": {
+        "description": "Generous, service-oriented, responsible.",
+        "ruling_planet": "Sun",
+        "zodiac_sign": "Leo / Virgo",
+        "deity": "Aryaman",
+        "qualities": "Friendship, patronage, social contracts, helpfulness."
+    },
+    "Hasta": {
+        "description": "Skilled, clever, craftsmanship.",
+        "ruling_planet": "Moon",
+        "zodiac_sign": "Virgo",
+        "deity": "Savitar",
+        "qualities": "Dexterity, healing hands, resourcefulness, wit."
+    },
+    "Chitra": {
+        "description": "Brilliant, artistic, visionary.",
+        "ruling_planet": "Mars",
+        "zodiac_sign": "Virgo / Libra",
+        "deity": "Vishwakarma",
+        "qualities": "Creative genius, beauty, dynamic energy, architecture."
+    },
+    "Swati": {
+        "description": "Independent, flexible, restless.",
+        "ruling_planet": "Rahu",
+        "zodiac_sign": "Libra",
+        "deity": "Vayu",
+        "qualities": "Freedom, self-reliance, adaptability, business acumen."
+    },
+    "Vishakha": {
+        "description": "Determined, goal-oriented, dual nature.",
+        "ruling_planet": "Jupiter",
+        "zodiac_sign": "Libra / Scorpio",
+        "deity": "Indra-Agni",
+        "qualities": "Ambition, focus, triumph, transformative power."
+    },
+    "Anuradha": {
+        "description": "Devotional, friendly, exploratory.",
+        "ruling_planet": "Saturn",
+        "zodiac_sign": "Scorpio",
+        "deity": "Mitra",
+        "qualities": "Loyalty, friendship, organizational skills, devotion."
+    },
+    "Jyeshtha": {
+        "description": "Senior, protective, authoritative.",
+        "ruling_planet": "Mercury",
+        "zodiac_sign": "Scorpio",
+        "deity": "Indra",
+        "qualities": "Power, responsibility, courage, mystical knowledge."
+    },
+    "Mula": {
+        "description": "Root, destructive, transformative.",
+        "ruling_planet": "Ketu",
+        "zodiac_sign": "Sagittarius",
+        "deity": "Nirriti",
+        "qualities": "Investigation, uprooting, spiritual transcendence."
+    },
+    "Purva Ashadha": {
+        "description": "Invincible, purifying, truth-seeking.",
+        "ruling_planet": "Venus",
+        "zodiac_sign": "Sagittarius",
+        "deity": "Apas",
+        "qualities": "Invigoration, purification, courage, declaration of truth."
+    },
+    "Uttara Ashadha": {
+        "description": "Universal, righteous, leadership.",
+        "ruling_planet": "Sun",
+        "zodiac_sign": "Sagittarius / Capricorn",
+        "deity": "Vishvedevas",
+        "qualities": "Final victory, integrity, unchallengeable will."
+    },
+    "Shravana": {
+        "description": "Listening, learning, connected.",
+        "ruling_planet": "Moon",
+        "zodiac_sign": "Capricorn",
+        "deity": "Vishnu",
+        "qualities": "Knowledge through listening, perseverance, connection."
+    },
+    "Dhanishtha": {
+        "description": "Wealthy, musical, ambitious.",
+        "ruling_planet": "Mars",
+        "zodiac_sign": "Capricorn / Aquarius",
+        "deity": "Ashta Vasus",
+        "qualities": "Prosperity, rhythm, adaptability, group harmony."
+    },
+    "Shatabhisha": {
+        "description": "Healing, secretive, philosophical.",
+        "ruling_planet": "Rahu",
+        "zodiac_sign": "Aquarius",
+        "deity": "Varuna",
+        "qualities": "Mystical healing, solitude, truth, vast knowledge."
+    },
+    "Purva Bhadrapada": {
+        "description": "Fiery, transformative, intense.",
+        "ruling_planet": "Jupiter",
+        "zodiac_sign": "Aquarius / Pisces",
+        "deity": "Aja Ekapada",
+        "qualities": "Penance, spiritual fire, occult knowledge, sacrifice."
+    },
+    "Uttara Bhadrapada": {
+        "description": "Deep, wise, controlled.",
+        "ruling_planet": "Saturn",
+        "zodiac_sign": "Pisces",
+        "deity": "Ahir Budhnya",
+        "qualities": "Depth of character, wisdom, endurance, spiritual depth."
+    },
+    "Revati": {
+        "description": "Nourishing, protective, journey's end.",
+        "ruling_planet": "Mercury",
+        "zodiac_sign": "Pisces",
+        "deity": "Pushan",
+        "qualities": "Safe travel, wealth, nourishment, compassion, completion."
+    }
+}
